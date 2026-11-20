@@ -1,0 +1,24 @@
+OPI iOS SDK Integration License
+Copyright © 2026 Richard Hug
+
+Permission is granted to use and compile this Swift Package, including in
+commercial applications, to integrate compatible OPI payment terminals.
+You may bundle the resulting compiled SDK with those applications and
+distribute them to customers. Retain this license and copyright notices.
+Access to the Swift source is provided for building and integrating the SDK.
+It does not grant permission to republish the standalone source or SDK,
+resell the SDK as a standalone product, remove attribution, or present the
+SDK as your own product. Other uses require Richard Hug's written permission.
+This is not an open-source license. All other rights are reserved, to the
+extent permitted by applicable law.
+
+THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, RICHARD HUG SHALL
+NOT BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM USE OF THE
+SDK, INCLUDING LOST REVENUE, LOST DATA OR PAYMENT PROCESSING INTERRUPTION.
+Nothing in these terms excludes liability that cannot lawfully be excluded.
+
+Maintenance and support are best effort only. No SLA, guaranteed response or
+resolution time, release schedule, or obligation to provide fixes or support
+is granted. Third-party components retain their own licenses and notices.
